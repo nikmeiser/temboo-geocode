@@ -1,6 +1,6 @@
 // You'll need a single TembooSession object in your code, eg:
 var tsession = require("temboo/core/temboosession");
-var session = new tsession.TembooSession("nikmeiser", "myFirstApp", "8532f0f8eaaf4e829e7a1c9b4f786cbd");
+var session = new tsession.TembooSession("ACCOUNT_NAME", "APP_NAME", "APP_KEY");
 
 var Google = require("temboo/Library/Google/Geocoding");
 
