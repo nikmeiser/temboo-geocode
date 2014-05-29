@@ -2,7 +2,7 @@ temboo-geocode
 ==============
 
 Prerequisites
-   * [Temboo Node.js SDK][https://www.temboo.com/sdk/nodejs]
+   * https://www.temboo.com/sdk/nodejs
    * npm install connect
    * npm install brackets
 
