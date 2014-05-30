@@ -32,7 +32,6 @@ function getGeocodeByAddress(addrString, callback) {
 
 function geocodeSuccess(results) {
     console.log(results.get_Response());
-    return results.get_Response();
 }
 
 function geocodeFail(error) {
